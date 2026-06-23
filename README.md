@@ -26,3 +26,13 @@ To understand the fundamentals of machine learning classification, model trainin
 ## Internship
 
 DecodeLabs Artificial Intelligence Internship – Project 2
+## Results
+
+Model Accuracy: 100%
+
+The model was successfully trained and evaluated using the Iris dataset.
+
+## Output Screenshot
+
+* classification_output.png
+
